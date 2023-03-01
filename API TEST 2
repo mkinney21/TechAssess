@@ -1,6 +1,7 @@
 POST - https://demo.docusign.net/restapi/v2/accounts/12345678/envelopes
 
-
+{
+  "envelopeDefinition": 
 {
   "enforceSignerVisibility": "true",
   "recipients": {
@@ -37,4 +38,5 @@ POST - https://demo.docusign.net/restapi/v2/accounts/12345678/envelopes
     }
   ],
   "status": "sent"
+}
 }
