@@ -55,7 +55,7 @@ POST - https://demo.docusign.net/restapi/accounts/12345678/envelopes
         },
         "inlineTemplates": [
           {
-            "sequence": "1",
+            "sequence": "2",
             "recipients": {
               "agents": [],
               "carbonCopies": [],
@@ -248,7 +248,7 @@ POST - https://demo.docusign.net/restapi/accounts/12345678/envelopes
         ],
         "serverTemplates": [
         {
-          "sequence": "2",
+          "sequence": "1",
           "folderId": "803dd9b7-31ca-420f-94e9-b6658cad47b8",
           "folderIds": [
             "803dd9b7-31ca-420f-94e9-b6658cad47b8"
@@ -286,7 +286,7 @@ POST - https://demo.docusign.net/restapi/accounts/12345678/envelopes
         },
         "inlineTemplates": [
           {
-            "sequence": "1",
+            "sequence": "2",
             "recipients": {
               "agents": [],
               "carbonCopies": [],
@@ -479,7 +479,7 @@ POST - https://demo.docusign.net/restapi/accounts/12345678/envelopes
         ],
         "serverTemplates": [
           {
-          "sequence": "2",
+          "sequence": "1",
           "folderId": "803dd9b7-31ca-420f-94e9-b6658cad47b8",
           "folderIds": [
             "803dd9b7-31ca-420f-94e9-b6658cad47b8"
