@@ -35,7 +35,7 @@ POST - https://demo.docusign.net/restapi/accounts/12345678/envelopes
         "reminderFrequency": "0"
       }
     },
-    "emailSubject": "Please fill in and sign all required fields.",
+    "emailSubject": "Please DocuSign: Blank-Fax-Cover-Sheet-Free-Download1.pdf and TPS REPORT`.pdf",
     "emailBlurb": "",
     "status": "sent",
     "compositeTemplates": [
